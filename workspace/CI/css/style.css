@@ -1,0 +1,35 @@
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.card li{
+    list-style-type: none; 
+}
+
+#kortit {
+    text-align:center;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding:0;   
+   
+}
+
+.center {
+    
+    text-align: center;
+    margin:0;
+}
+
+.nappi {
+   margin-left: 0px;
+    
+}
+
+#sortButton {
+    cursor: default;
+}
+
+#sortButton:hover {
+    background-color: #007bff;
+    border-color: #007bff;
+}
